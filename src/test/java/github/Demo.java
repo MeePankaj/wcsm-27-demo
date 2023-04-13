@@ -1,13 +1,13 @@
-
+package github;
 
 import org.testng.annotations.Test;
 
-public class Repo {
+public class Demo {
 	
 	@Test
 	public void demo()
 	{
-		System.out.println("This is a Demo");
+		System.out.println("This is demo");
 	}
 
 }
