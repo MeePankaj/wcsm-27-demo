@@ -1,4 +1,4 @@
-package github;
+
 
 import org.testng.annotations.Test;
 
